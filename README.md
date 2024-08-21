@@ -1,7 +1,7 @@
 ## H3r3zy
 
 Working on:
-- [DofusDB](https://dofusdb.fr) biggest Dofus (MMO) encyclopedia. (Since 2019)
+- [DofusDB](https://dofusdb.fr) biggest Dofus (MMO) encyclopedia. (personal project, since 2019)
 - @adeo in supply chain optimization
 
 Former:
