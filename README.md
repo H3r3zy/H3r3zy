@@ -5,4 +5,4 @@ Working on:
 
 Former:
 - [Ankama Launcher](https://www.ankama.com/en/launcher) lead software developer. [one of my work](https://www.dofus.com/en/mmorpg/news/devblog/tickets/1466834-ankama-launcher-update-engine-speeding-up) (2 years and 9 months)
-- [Adeo](https://adeo.com) fullstack developer - Supply chain optimization. (6 months)
+- [Adeo](https://adeo.com) [@Adeo](https://github.com/adeo) fullstack developer - Supply chain optimization. (6 months)
