@@ -1,7 +1,7 @@
 ## H3r3zy
 
 Working on:
-- [DofusDB](https://dofusdb.fr) biggest Dofus (MMO) encyclopedia. (personal project, since 2019)
+- [DofusDB](https://dofusdb.fr) [@DofusDB](https://github.com/DofusDB) biggest Dofus (MMO) encyclopedia. (personal project, since 2019)
 - [Allisone.ai](https://allisone.ai) [@Allisone-ai](https://github.com/allisone-ai) fullstack developer 
 
 Former:
